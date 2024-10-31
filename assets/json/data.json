@@ -1,0 +1,270 @@
+{
+  "search_type": 3,
+  "word_count": 557,
+  "sentence_count": 24,
+  "score": 100,
+  "ephemeral": 0,
+  "title": "Quetext's plagiarism checker",
+  "input_text": "The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia),[16] it is the largest natural satellite in the Solar System relative to the size of a major planet,[f] the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density. Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its gravitational influence slightly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.[19] The most widely accepted origin explanation posits that the Moon formed about 4.51 billion years ago, not long after Earth, out of the debris from a giant impact between the planet and a hypothesized Mars-sized body called Theia. It then receded to a wider orbit because of tidal interaction with the Earth. The near side of the Moon is marked by dark volcanic maria, which fill the spaces between bright ancient crustal highlands and prominent impact craters. Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years ago. The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt. However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky. The Moon's apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse. Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies throughout history. Such influences can be found in language, calendar systems, art, and mythology. The first artificial object to reach the Moon was the Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966. The only human lunar missions to date have been those of the United States' Apollo program, which landed twelve men on the surface between 1969 and 1972. These and later uncrewed missions returned lunar rocks that have been used to develop a detailed geological understanding of the Moon's origins, internal structure, and subsequent history.",
+  "matches": [
+      {
+          "input_text_match": "The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia),[16] it is the largest natural satellite in the Solar System relative to the size of a major planet,[f] the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet",
+          "input_text_offset": 0,
+          "input_token_count": 55,
+          "id": "a-765905109.3260964",
+          "highlighted_snippet": "250 K 390 K[12] 85°N 150 K 230 K[13] Surface absorbed dose rate13. 2 μGy/h[14]Surface equivalent dose rate57. 0 μSv/h[14]Apparent magnitude−2. 5 to 12. 9[lower-alpha 3]−12. 74 (mean full moon)[4]Angular diameter29. 3 to 34. 1 arcminutes[4][lower-alpha 4]Atmosphere[15]Surface pressure10−7 Pa (1 picobar) (day)10−10 Pa (1 femtobar) (night)[lower-alpha 5]Composition by volumeHeArNeNaKHRn <b>The</b> <b>Moon</b> <b>is</b> <b>Earth's</b> <b>only</b> <b>natural</b> <b>satellite.</b> <b>At</b> <b>about</b> <b>one</b> <b>quarter</b> <b>the</b> <b>diameter</b> <b>of</b> <b>Earth</b> <b>(comparable</b> <b>to</b> <b>the</b> <b>width</b> <b>of</b> <b>Australia),[16]</b> <b>it</b> <b>is</b> <b>the</b> <b>largest</b> <b>natural</b> <b>satellite</b> <b>in</b> <b>the</b> <b>Solar</b> <b>System</b> <b>relative</b> <b>to</b> <b>the</b> <b>size</b> <b>of</b> <b>a</b> <b>major</b> planet,[lower alpha 6] <b>the</b> <b>fifth</b> <b>largest</b> <b>satellite</b> <b>in</b> <b>the</b> <b>Solar</b> <b>System</b> <b>overall,</b> <b>and</b> <b>larger</b> <b>than</b> <b>any</b> <b>known</b> <b>dwarf</b> <b>planet.</b> The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0. 1654 g); Jupiter's moon Io is the",
+          "percent_similar": 97,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term",
+          "input_text_offset": 327,
+          "input_token_count": 25,
+          "id": "a-968231149.6660434",
+          "highlighted_snippet": "satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia),[16] it is the largest natural satellite in the Solar System relative to the size of a major planet,[lower-alpha 6] the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. <b>The</b> <b>Moon</b> <b>is</b> <b>a</b> <b>planetary</b> <b>mass</b> <b>object</b> <b>that</b> <b>formed</b> <b>a</b> <b>differentiated</b> <b>rocky</b> <b>body,</b> <b>making</b> <b>it</b> <b>a</b> <b>satellite</b> <b>planet</b> <b>under</b> <b>the</b> <b>geophysical</b> <b>definitions</b> <b>of</b> <b>the</b> <b>term.</b> [17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0. 1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density. Orbiting Earth at an average distance of 384,400 km",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": ".[17] It lacks any significant atmosphere, hydrosphere, or magnetic field",
+          "input_text_offset": 478,
+          "input_token_count": 10,
+          "id": "a-108958501.44704755",
+          "highlighted_snippet": "System relative to the size of a major planet,[lower-alpha 6] the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the <b>It</b> <b>lacks</b> <b>any</b> <b>significant</b> <b>atmosphere,</b> <b>hydrosphere,</b> <b>or</b> <b>magnetic</b> <b>field.</b> Its surface gravity is about one-sixth of Earth's (0. 1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density. Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its",
+          "percent_similar": 98,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density",
+          "input_text_offset": 553,
+          "input_token_count": 31,
+          "id": "a-745558181.2643842",
+          "highlighted_snippet": "the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. <b>Its</b> <b>surface</b> <b>gravity</b> <b>is</b> <b>about</b> <b>one</b> <b>sixth</b> <b>of</b> <b>Earth's</b> (0. 1654 <b>g);</b> <b>Jupiter's</b> <b>moon</b> <b>Io</b> <b>is</b> <b>the</b> <b>only</b> <b>satellite</b> <b>in</b> <b>the</b> <b>Solar</b> <b>System</b> <b>known</b> <b>to</b> <b>have</b> <b>a</b> <b>higher</b> <b>surface</b> <b>gravity</b> <b>and</b> <b>density.</b> Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27. 3 days. During each synodic",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its gravitational influence slightly lengthens Earth's day and is the main driver of Earth's tides",
+          "input_text_offset": 727,
+          "input_token_count": 32,
+          "id": "a-132177295.5968703",
+          "highlighted_snippet": "satellite planet under the geophysical definitions of the term.[17] It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0. 1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density. <b>Orbiting</b> <b>Earth</b> <b>at</b> <b>an</b> <b>average</b> <b>distance</b> <b>of</b> <b>384,400</b> <b>km</b> <b>(238,900</b> <b>mi),[18]</b> <b>or</b> <b>about</b> <b>30</b> <b>times</b> <b>Earth's</b> <b>diameter,</b> <b>its</b> <b>gravitational</b> <b>influence</b> very slowly <b>lengthens</b> <b>Earth's</b> <b>day</b> <b>and</b> <b>is</b> <b>the</b> <b>main</b> <b>driver</b> <b>of</b> <b>Earth's</b> <b>tides.</b> The Moon's orbit around Earth has a sidereal period of 27. 3 days. During each synodic period of 29. 5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar",
+          "percent_similar": 95,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The Moon's orbit around Earth has a sidereal period of 27.3 days",
+          "input_text_offset": 933,
+          "input_token_count": 12,
+          "id": "a-114386619.18969561",
+          "highlighted_snippet": "the only satellite in the Solar System known to have a higher surface gravity and density. Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. <b>The</b> <b>Moon's</b> <b>orbit</b> <b>around</b> <b>Earth</b> <b>has</b> <b>a</b> <b>sidereal</b> <b>period</b> <b>of</b> 27. 3 <b>days.</b> During each synodic period of 29. 5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar",
+          "input_text_offset": 999,
+          "input_token_count": 37,
+          "id": "a-598071533.0315933",
+          "highlighted_snippet": "gravity and density. Orbiting Earth at an average distance of 384,400 km (238,900 mi),[18] or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27. 3 days. <b>During</b> <b>each</b> <b>synodic</b> <b>period</b> <b>of</b> 29. 5 <b>days,</b> <b>the</b> <b>amount</b> <b>of</b> <b>visible</b> <b>surface</b> <b>illuminated</b> <b>by</b> <b>the</b> <b>Sun</b> <b>varies</b> <b>from</b> <b>none</b> <b>up</b> <b>to</b> <b>100%,</b> <b>resulting</b> <b>in</b> <b>lunar</b> <b>phases</b> <b>that</b> <b>form</b> <b>the</b> <b>basis</b> <b>for</b> <b>the</b> <b>months</b> <b>of</b> <b>a</b> <b>lunar</b> <b>calendar.</b> The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said,",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period",
+          "input_text_offset": 1204,
+          "input_token_count": 47,
+          "id": "a-798728142.0109214",
+          "highlighted_snippet": "orbit around Earth has a sidereal period of 27. 3 days. During each synodic period of 29. 5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. <b>The</b> <b>Moon</b> <b>is</b> <b>tidally</b> <b>locked</b> <b>to</b> <b>Earth,</b> <b>which</b> <b>means</b> <b>that</b> <b>the</b> <b>length</b> <b>of</b> <b>a</b> <b>full</b> <b>rotation</b> <b>of</b> <b>the</b> <b>Moon</b> <b>on</b> <b>its</b> <b>own</b> <b>axis</b> <b>causes</b> <b>its</b> <b>same</b> <b>side</b> <b>(the</b> <b>near</b> <b>side)</b> <b>to</b> <b>always</b> <b>face</b> <b>Earth,</b> <b>and</b> <b>the</b> <b>somewhat</b> <b>longer</b> <b>lunar</b> <b>day</b> <b>is</b> <b>the</b> <b>same</b> <b>as</b> <b>the</b> <b>synodic</b> <b>period.</b> That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.[19] The most widely accepted origin explanation posits that the Moon formed about 4. 51 billion years ago, not long after Earth, out of the debris from a giant impact",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration",
+          "input_text_offset": 1444,
+          "input_token_count": 20,
+          "id": "a-67346962.3430507",
+          "highlighted_snippet": "lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. <b>That</b> <b>said,</b> <b>59%</b> <b>of</b> <b>the</b> <b>total</b> <b>lunar</b> <b>surface</b> <b>can</b> <b>be</b> <b>seen</b> <b>from</b> <b>Earth</b> <b>through</b> <b>shifts</b> <b>in</b> <b>perspective</b> <b>due</b> <b>to</b> <b>libration.</b> [19] The most widely accepted origin explanation posits that the Moon formed about 4. 51 billion years ago, not long after Earth, out of the debris from a giant impact between the planet and a hypothesized Mars-sized body called Theia. It then receded to a wider orbit because of tidal",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": ".[19] The most widely accepted origin explanation posits that the Moon formed about 4.51 billion years ago, not long after Earth, out of the debris from a giant impact between the planet and a hypothesized Mars-sized body called Theia",
+          "input_text_offset": 1555,
+          "input_token_count": 40,
+          "id": "a-708757329.8297542",
+          "highlighted_snippet": "the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to <b>The</b> <b>most</b> <b>widely</b> <b>accepted</b> <b>origin</b> <b>explanation</b> <b>posits</b> <b>that</b> <b>the</b> <b>Moon</b> <b>formed</b> <b>about</b> 4. 51 <b>billion</b> <b>years</b> <b>ago,</b> <b>not</b> <b>long</b> <b>after</b> <b>Earth,</b> <b>out</b> <b>of</b> <b>the</b> <b>debris</b> <b>from</b> <b>a</b> <b>giant</b> <b>impact</b> <b>between</b> <b>the</b> <b>planet</b> <b>and</b> <b>a</b> <b>hypothesized</b> <b>Mars</b> <b>sized</b> <b>body</b> <b>called</b> <b>Theia.</b> It then receded to a wider orbit because of tidal interaction with the Earth. The near side of the Moon is marked by dark volcanic maria (\"seas\"), which fill the spaces between bright ancient crustal highlands and prominent impact craters. Most of the large impact basins and mare surfaces",
+          "percent_similar": 99,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "It then receded to a wider orbit because of tidal interaction with the Earth",
+          "input_text_offset": 1791,
+          "input_token_count": 14,
+          "id": "a-752677010.7862902",
+          "highlighted_snippet": "seen from Earth through shifts in perspective due to libration.[19] The most widely accepted origin explanation posits that the Moon formed about 4. 51 billion years ago, not long after Earth, out of the debris from a giant impact between the planet and a hypothesized Mars-sized body called Theia. <b>It</b> <b>then</b> <b>receded</b> <b>to</b> <b>a</b> <b>wider</b> <b>orbit</b> <b>because</b> <b>of</b> <b>tidal</b> <b>interaction</b> <b>with</b> <b>the</b> <b>Earth.</b> The near side of the Moon is marked by dark volcanic maria (\"seas\"), which fill the spaces between bright ancient crustal highlands and prominent impact craters. Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The near side of the Moon is marked by dark volcanic maria, which fill the spaces between bright ancient crustal highlands and prominent impact craters",
+          "input_text_offset": 1869,
+          "input_token_count": 25,
+          "id": "a-710830062.6980597",
+          "highlighted_snippet": "origin explanation posits that the Moon formed about 4. 51 billion years ago, not long after Earth, out of the debris from a giant impact between the planet and a hypothesized Mars-sized body called Theia. It then receded to a wider orbit because of tidal interaction with the Earth. <b>The</b> <b>near</b> <b>side</b> <b>of</b> <b>the</b> <b>Moon</b> <b>is</b> <b>marked</b> <b>by</b> <b>dark</b> <b>volcanic</b> <b>maria</b> (\"seas\"), <b>which</b> <b>fill</b> <b>the</b> <b>spaces</b> <b>between</b> <b>bright</b> <b>ancient</b> <b>crustal</b> <b>highlands</b> <b>and</b> <b>prominent</b> <b>impact</b> <b>craters.</b> Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years ago. The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt. However, because it has a large angular diameter,",
+          "percent_similar": 97,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years ago",
+          "input_text_offset": 2022,
+          "input_token_count": 24,
+          "id": "a-757296169.4269695",
+          "highlighted_snippet": "the planet and a hypothesized Mars-sized body called Theia. It then receded to a wider orbit because of tidal interaction with the Earth. The near side of the Moon is marked by dark volcanic maria (\"seas\"), which fill the spaces between bright ancient crustal highlands and prominent impact craters. <b>Most</b> <b>of</b> <b>the</b> <b>large</b> <b>impact</b> <b>basins</b> <b>and</b> <b>mare</b> <b>surfaces</b> <b>were</b> <b>in</b> <b>place</b> <b>by</b> <b>the</b> <b>end</b> <b>of</b> <b>the</b> <b>Imbrian</b> <b>period,</b> <b>some</b> <b>three</b> <b>billion</b> <b>years</b> <b>ago.</b> The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt. However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky. The Moon's apparent size is nearly the same as that of the",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt",
+          "input_text_offset": 2150,
+          "input_token_count": 18,
+          "id": "a-236917887.11630824",
+          "highlighted_snippet": "near side of the Moon is marked by dark volcanic maria (\"seas\"), which fill the spaces between bright ancient crustal highlands and prominent impact craters. Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years ago. <b>The</b> <b>lunar</b> <b>surface</b> <b>is</b> <b>relatively</b> <b>non</b> <b>reflective,</b> <b>with</b> <b>a</b> <b>reflectance</b> <b>just</b> <b>slightly</b> <b>brighter</b> <b>than</b> <b>that</b> <b>of</b> <b>worn</b> <b>asphalt.</b> However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky. The Moon's apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse. Both the Moon's",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky",
+          "input_text_offset": 2267,
+          "input_token_count": 20,
+          "id": "a-153028589.826256",
+          "highlighted_snippet": "bright ancient crustal highlands and prominent impact craters. Most of the large impact basins and mare surfaces were in place by the end of the Imbrian period, some three billion years ago. The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt. <b>However,</b> <b>because</b> <b>it</b> <b>has</b> <b>a</b> <b>large</b> <b>angular</b> <b>diameter,</b> <b>the</b> <b>full</b> <b>moon</b> <b>is</b> <b>the</b> <b>brightest</b> <b>celestial</b> <b>object</b> <b>in</b> <b>the</b> <b>night</b> <b>sky.</b> The Moon's apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse. Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The Moon's apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse",
+          "input_text_offset": 2383,
+          "input_token_count": 26,
+          "id": "a-58204422.43605406",
+          "highlighted_snippet": "by the end of the Imbrian period, some three billion years ago. The lunar surface is relatively non-reflective, with a reflectance just slightly brighter than that of worn asphalt. However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky. <b>The</b> <b>Moon's</b> <b>apparent</b> <b>size</b> <b>is</b> <b>nearly</b> <b>the</b> <b>same</b> <b>as</b> <b>that</b> <b>of</b> <b>the</b> <b>Sun,</b> <b>allowing</b> <b>it</b> <b>to</b> <b>cover</b> <b>the</b> <b>Sun</b> <b>almost</b> <b>completely</b> <b>during</b> <b>a</b> <b>total</b> <b>solar</b> <b>eclipse.</b> Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies throughout history. Such influences can be found in language, calendar systems, art, and mythology. The first artificial object to reach the Moon was the Soviet Union's",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies throughout history",
+          "input_text_offset": 2524,
+          "input_token_count": 25,
+          "id": "a-346534662.6416561",
+          "highlighted_snippet": "of worn asphalt. However, because it has a large angular diameter, the full moon is the brightest celestial object in the night sky. The Moon's apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse. <b>Both</b> <b>the</b> <b>Moon's</b> <b>prominence</b> <b>in</b> <b>the</b> <b>earthly</b> <b>sky</b> <b>and</b> <b>its</b> <b>regular</b> <b>cycle</b> <b>of</b> <b>phases</b> <b>have</b> <b>provided</b> <b>cultural</b> <b>references</b> <b>and</b> <b>influences</b> <b>for</b> <b>human</b> <b>societies</b> <b>throughout</b> <b>history.</b> Such influences can be found in language, calendar systems, art, and mythology. The first artificial object to reach the Moon was the Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966. The only human lunar missions",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "Such influences can be found in language, calendar systems, art, and mythology",
+          "input_text_offset": 2691,
+          "input_token_count": 12,
+          "id": "a-174226460.41486445",
+          "highlighted_snippet": "apparent size is nearly the same as that of the Sun, allowing it to cover the Sun almost completely during a total solar eclipse. Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies throughout history. <b>Such</b> <b>influences</b> <b>can</b> <b>be</b> <b>found</b> <b>in</b> <b>language,</b> <b>calendar</b> <b>systems,</b> <b>art,</b> <b>and</b> <b>mythology.</b> The first artificial object to reach the Moon was the Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966. The only human lunar missions to date have been those of the United States' Apollo program, which",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The first artificial object to reach the Moon was the Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966",
+          "input_text_offset": 2771,
+          "input_token_count": 32,
+          "id": "a-868077953.3861294",
+          "highlighted_snippet": "it to cover the Sun almost completely during a total solar eclipse. Both the Moon's prominence in the earthly sky and its regular cycle of phases have provided cultural references and influences for human societies throughout history. Such influences can be found in language, calendar systems, art, and mythology. <b>The</b> <b>first</b> <b>artificial</b> <b>object</b> <b>to</b> <b>reach</b> <b>the</b> <b>Moon</b> <b>was</b> <b>the</b> <b>Soviet</b> <b>Union's</b> <b>Luna</b> <b>2</b> <b>uncrewed</b> <b>spacecraft</b> <b>in</b> <b>1959;</b> <b>this</b> <b>was</b> <b>followed</b> <b>by</b> <b>the</b> <b>first</b> <b>successful</b> <b>soft</b> <b>landing</b> <b>by</b> <b>Luna</b> <b>9</b> <b>in</b> <b>1966</b>. The only human lunar missions to date have been those of the United States' Apollo program, which landed twelve men on the surface between 1969 and 1972. These and later uncrewed missions returned lunar rocks that have been used to develop a detailed geological understanding of the Moon's origins,",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "The only human lunar missions to date have been those of the United States' Apollo program, which landed twelve men on the surface between 1969 and 1972",
+          "input_text_offset": 2950,
+          "input_token_count": 27,
+          "id": "a-809676437.5928609",
+          "highlighted_snippet": "for human societies throughout history. Such influences can be found in language, calendar systems, art, and mythology. The first artificial object to reach the Moon was the Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966. <b>The</b> <b>only</b> <b>human</b> <b>lunar</b> <b>missions</b> <b>to</b> <b>date</b> <b>have</b> <b>been</b> <b>those</b> <b>of</b> <b>the</b> <b>United</b> <b>States'</b> <b>Apollo</b> <b>program,</b> <b>which</b> <b>landed</b> <b>twelve</b> <b>men</b> <b>on</b> <b>the</b> <b>surface</b> <b>between</b> <b>1969</b> <b>and</b> <b>1972</b>. These and later uncrewed missions returned lunar rocks that have been used to develop a detailed geological understanding of the Moon's origins, internal structure, and subsequent history. Name and etymology See also: Moon§ Mythology and art The usual English proper name for Earth's natural satellite is simply Moon,",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      },
+      {
+          "input_text_match": "These and later uncrewed missions returned lunar rocks that have been used to develop a detailed geological understanding of the Moon's origins, internal structure, and subsequent history",
+          "input_text_offset": 3104,
+          "input_token_count": 27,
+          "id": "a-227933426.92148098",
+          "highlighted_snippet": "Soviet Union's Luna 2 uncrewed spacecraft in 1959; this was followed by the first successful soft landing by Luna 9 in 1966. The only human lunar missions to date have been those of the United States' Apollo program, which landed twelve men on the surface between 1969 and 1972. <b>These</b> <b>and</b> <b>later</b> <b>uncrewed</b> <b>missions</b> <b>returned</b> <b>lunar</b> <b>rocks</b> <b>that</b> <b>have</b> <b>been</b> <b>used</b> <b>to</b> <b>develop</b> <b>a</b> <b>detailed</b> <b>geological</b> <b>understanding</b> <b>of</b> <b>the</b> <b>Moon's</b> <b>origins,</b> <b>internal</b> <b>structure,</b> <b>and</b> <b>subsequent</b> <b>history.</b> Name and etymology See also: Moon§ Mythology and art The usual English proper name for Earth's natural satellite is simply Moon, with a capital M.[20][21] The noun moon is derived from Old English mōna, which (like all its Germanic cognates) stems from Proto-Germanic *mēnōn,[22] which in turn comes",
+          "percent_similar": 100,
+          "source": {
+              "url": "https://en.wikipedia.org/wiki/Moon",
+              "id": "en.wikipedia.org:740f4779"
+          }
+      }
+  ],
+  "progress": 1,
+  "start_date": 1655725609,
+  "end_date": 1655725611,
+  "owner": 199,
+  "public": 0,
+  "id": "257981c34877689dda95",
+  "archived_at": null
+}

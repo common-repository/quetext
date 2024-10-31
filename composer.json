@@ -1,0 +1,10 @@
+{
+    "name": "quetext/wp-quetext-plagiarism",
+    "description": "Starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "require": {},
+    "autoload": {
+        "psr-4": {"QTPC\\": "QTPC"}
+    }
+}
